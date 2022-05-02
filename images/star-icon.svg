@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114.809" height="17.221" viewBox="0 0 114.809 17.221">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="114.809" height="17.221" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="star-icon" clip-path="url(#clip-path)">
+    <g transform="translate(-1030.5 -9589)">
+      <path id="Polygon_2" data-name="Polygon 2" d="M9.076,0,11.8,5.663l6.353.78-4.67,4.281,1.2,6.146L9.076,13.852,3.467,16.87l1.2-6.146L0,6.444l6.353-.78Z" transform="translate(1030.5 9589)" fill="#fdc23e"/>
+    </g>
+    <g transform="translate(-1006.5 -9589)">
+      <path id="Polygon_2-2" data-name="Polygon 2" d="M9.076,0,11.8,5.663l6.353.78-4.67,4.281,1.2,6.146L9.076,13.852,3.467,16.87l1.2-6.146L0,6.444l6.353-.78Z" transform="translate(1030.5 9589)" fill="#fdc23e"/>
+    </g>
+    <g transform="translate(-982.5 -9589)">
+      <path id="Polygon_2-3" data-name="Polygon 2" d="M9.076,0,11.8,5.663l6.353.78-4.67,4.281,1.2,6.146L9.076,13.852,3.467,16.87l1.2-6.146L0,6.444l6.353-.78Z" transform="translate(1030.5 9589)" fill="#fdc23e"/>
+    </g>
+    <g transform="translate(-958.5 -9589)">
+      <path id="Polygon_2-4" data-name="Polygon 2" d="M9.076,0,11.8,5.663l6.353.78-4.67,4.281,1.2,6.146L9.076,13.852,3.467,16.87l1.2-6.146L0,6.444l6.353-.78Z" transform="translate(1030.5 9589)" fill="#fdc23e"/>
+    </g>
+    <g transform="translate(-934.5 -9589)">
+      <path id="Polygon_2-5" data-name="Polygon 2" d="M9.076,0,11.8,5.663l6.353.78-4.67,4.281,1.2,6.146L9.076,13.852,3.467,16.87l1.2-6.146L0,6.444l6.353-.78Z" transform="translate(1030.5 9589)" fill="#fdc23e"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="60" viewBox="0 0 140 60">
+  <g id="recent-arrow-icon" transform="translate(-1520 -3671)">
+    <g id="Slider_Controls" data-name="Slider Controls" transform="translate(1600 3671)">
+      <g id="Ellipse_7" data-name="Ellipse 7" fill="#fff" stroke="#3f74ff" stroke-width="1">
+        <circle cx="30" cy="30" r="30" stroke="none"/>
+        <circle cx="30" cy="30" r="29.5" fill="none"/>
+      </g>
+      <path id="Path_1387" data-name="Path 1387" d="M12.749,46.232,8.07,41.553a.711.711,0,0,0-1,0l-.425.425a.7.7,0,0,0-.207.5.718.718,0,0,0,.207.507l2.73,2.736H.7a.692.692,0,0,0-.7.7v.6a.719.719,0,0,0,.7.728H9.4L6.642,50.5a.7.7,0,0,0,0,1l.425.424a.711.711,0,0,0,1,0l4.679-4.679a.715.715,0,0,0,0-1.006Z" transform="translate(24 -16.346)" fill="#111"/>
+    </g>
+    <g id="Slider_Controls-2" data-name="Slider Controls" transform="translate(1520 3671)" opacity="0.6">
+      <g id="Ellipse_7-2" data-name="Ellipse 7" fill="#fff" stroke="#3f74ff" stroke-width="1">
+        <circle cx="30" cy="30" r="30" stroke="none"/>
+        <circle cx="30" cy="30" r="29.5" fill="none"/>
+      </g>
+      <path id="Path_1387-2" data-name="Path 1387" d="M.207,46.232l4.679-4.679a.711.711,0,0,1,1,0l.425.425a.7.7,0,0,1,.207.5.718.718,0,0,1-.207.507L3.584,45.722h8.672a.692.692,0,0,1,.7.7v.6a.719.719,0,0,1-.7.728h-8.7L6.313,50.5a.7.7,0,0,1,0,1l-.425.424a.711.711,0,0,1-1,0L.207,47.238a.715.715,0,0,1,0-1.006Z" transform="translate(24 -16.346)" fill="#111" opacity="0.5"/>
+    </g>
+  </g>
+</svg>
