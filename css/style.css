@@ -7,3 +7,47 @@ html, body{
 .container{
     max-width: 1400px;
 }
+
+.btn{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 600; 
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1.44; 
+    border-radius: 0;
+    text-decoration: none;
+    padding: 14px 35px;
+    text-transform: uppercase;
+}
+
+.primary-btn{
+    background-color: #3F74FF;
+    color: #FFFFFF;
+}
+
+.primary-btn:hover{
+    background-color: #111111;
+    color: #EDEDF5;
+}
+ 
+.secondary-btn{
+    background-color: transparent;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+.secondary-btn:hover{
+    background-color: #3F74FF;
+    color: #FFFFFF;
+    border: 1px solid #3F74FF;
+}
+
+.third-btn{
+    background-color: #111111;
+    color: #FFFFFF;
+}
+
+.third-btn:hover{
+    background-color: #3F74FF;
+    color: #EDEDF5;
+}
