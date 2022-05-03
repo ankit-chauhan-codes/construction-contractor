@@ -132,3 +132,20 @@ html, body{
     line-height: 1.41;
 }
 /* home */
+
+/* qualities */
+#qualities{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#qualities h6{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #111111;
+    font-size: 24px;
+    line-height: 1.66;
+    letter-spacing: -0.24px;
+}
+/* qualities */
