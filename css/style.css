@@ -315,3 +315,31 @@ html, body{
     letter-spacing: -0.24px;
 }
 /* testimonial */
+
+
+/* follow */
+#follow{
+    padding-top: 140px;
+}
+
+#follow h3{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #5D677B;
+    font-size: 18px;
+    line-height: 1.44;
+    letter-spacing: 2.7px;
+    text-transform: uppercase;
+}
+
+#follow .follow-link a{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #111111;
+    font-size: 54px;
+    line-height: 1.11;
+    letter-spacing: -0.54px;
+}
+/* follow */
