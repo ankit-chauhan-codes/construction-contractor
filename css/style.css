@@ -149,3 +149,48 @@ html, body{
     letter-spacing: -0.24px;
 }
 /* qualities */
+
+/*stakes */
+#stakes{
+    padding-top: 140px;
+    padding-bottom: 140px;
+    background: url(../images/stakes-bg-img.jpg) no-repeat center;
+    background-position: cover;
+    width: 100%;
+}
+
+#stakes .stakes-body{
+    max-width: 96%;
+}
+
+#stakes h3{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #5D677B;
+    font-size: 18px;
+    line-height: 1.44;
+    letter-spacing: 2.7px;
+    text-transform: uppercase;
+}
+
+#stakes h2{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #111111;
+    font-size: 54px;
+    line-height: 1.11;
+    letter-spacing: -0.54px;
+}
+
+#stakes p{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #35425B;
+    font-size: 18px;
+    line-height: 1.55;
+    letter-spacing: -0.36px;
+}
+/*stakes */
